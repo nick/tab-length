@@ -1,13 +1,12 @@
 {
   "name": "tab-length",
   "main": "./lib/tab-length",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Switch tab length with a shortcut.",
   "repository": "https://github.com/nick/tab-length",
   "license": "MIT",
   "engines": {
     "atom": ">=0.174.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
