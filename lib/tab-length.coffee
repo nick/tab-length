@@ -9,6 +9,10 @@ module.exports = TabLength =
     editor = atom.workspace.getActivePaneItem()
     editor.setTabLength(2)
 
+  setTabLengthTo3: ->
+    editor = atom.workspace.getActivePaneItem()
+    editor.setTabLength(3)
+
   setTabLengthTo4: ->
     editor = atom.workspace.getActivePaneItem()
     editor.setTabLength(4)

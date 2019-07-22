@@ -1,5 +1,6 @@
 'atom-text-editor':
   'ctrl-cmd-2': 'tab-length:tab-length-2'
+  'ctrl-cmd-3': 'tab-length:tab-length-3'
   'ctrl-cmd-4': 'tab-length:tab-length-4'
   'ctrl-cmd-8': 'tab-length:tab-length-8'
   'ctrl-cmd-0': 'tab-length:reset'
